@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.330429.xyz/api/spotify-currently-playing" alt="Spotify Currently Playing" />
+    <img src="https://novatoken-spotify-github-profile.vercel.app/api/spotify-currently-playing" alt="Spotify Currently Playing" />
   </a>
 </div>
 
@@ -49,18 +49,16 @@
 ###  Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miguel-725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Miguel725" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-725&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=miguel-725&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Miguel725" height="165" />
+  
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=miguel-725&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-725&theme=tokyonight&hide_border=true" alt="Racha de GitHub" />
-</div>
-
-<br />
-
-<div align="center">
+  <!-- Contador de Visitas -->
   <img src="https://komarev.com/ghpvc/?username=miguel-725&color=10B981&style=flat-square&label=Visitas+al+Perfil" alt="Contador de Visitas" />
 </div>
