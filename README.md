@@ -5,7 +5,7 @@
 
 <!-- IMAGEN PERSONALIZADA DEBAJO DEL BANNER -->
 <p align="center">
-  <img src="./banner.durisimo.jpg" alt="Banner Durisimo" width="100%" style="border-radius: 10px;" />
+  <img src="./banner.durisimo.jpeg" alt="Banner Durisimo" width="100%" style="border-radius: 10px;" />
 </p>
 
 <!-- TEXTO ANIMADO EN VERDE -->
