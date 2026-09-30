@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./banner.durisimo.jpeg" alt="Banner Durisimo" width="100%" style="border-radius: 10px;" />
+  <img src="./banner.durisimoo.jpeg" alt="Banner Durisimo" width="100%" style="border-radius: 10px;" />
 </p>
 
 <p align="center">
