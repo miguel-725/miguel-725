@@ -5,13 +5,13 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&height=120&width=1000&pause=1000&color=3FB950&center=true&vcenter=true&lines=hola+weyes;estudiante+de+sistemas;IA+voy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&height=120&width=1000&pause=1000&color=3FB950&center=true&vcenter=true&lines=Hola+weyes;Estudiante+de+sistemas;IA+voy;Gemini+mi+esposa" alt="Typing SVG" />
 </div>
 
 <br />
 
 ---
-###  Escuchando en Spotify
+#  Escuchando en Spotify
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠 Tecnologías y Herramientas
+# 🛠 Tecnologías y Herramientas
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
