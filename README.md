@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&height=100&width=800&pause=1000&color=3FB950&center=true&vcenter=true&lines=hola+weyes;estudiante+de+sistemas;IA+voy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&height=120&width=1000&pause=1000&color=3FB950&center=true&vcenter=true&lines=hola+weyes;estudiante+de+sistemas;IA+voy" alt="Typing SVG" />
 </div>
 
 <br />
@@ -24,7 +24,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Miguel725&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Miguel725" />
 </p>
 
-##  Sobre mí
+#  Sobre mí
 
 -  **Estudiante de Unifranz**
 -  Aprendiendo **APIs, Java, React, Python y más**
