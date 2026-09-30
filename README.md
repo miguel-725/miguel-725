@@ -39,8 +39,8 @@
 ###  Escuchando en Spotify
 
 <div align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://novatoken-spotify-github-profile.vercel.app/api/spotify-currently-playing" alt="Spotify Currently Playing" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=6kh55l9sgq1vs410fqu9rooyk&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="Spotify Currently Playing" />
   </a>
 </div>
 
