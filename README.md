@@ -15,11 +15,11 @@
 
 ---
 
-###  Sobre mí
+##  Sobre mí
 
-- 🎓 **Estudiante de Unifranz**
-- 📚 Aprendiendo **APIs, Java, React, Python y más**
-- 💬 Frase: **Look all you want, don't tap the glass**
+-  **Estudiante de Unifranz**
+-  Aprendiendo **APIs, Java, React, Python y más**
+-  Frase: **Look all you want, don't tap the glass**
 
 ---
 
