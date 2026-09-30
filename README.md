@@ -1,14 +1,12 @@
-<!-- BANNER VERDE ANIMADO -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Miguel725&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Miguel725" />
-</p>
 
-<!-- IMAGEN PERSONALIZADA DEBAJO DEL BANNER -->
 <p align="center">
   <img src="./banner.durisimo.jpeg" alt="Banner Durisimo" width="100%" style="border-radius: 10px;" />
 </p>
 
-<!-- TEXTO ANIMADO EN VERDE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Miguel725&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Miguel725" />
+</p>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3FB950&center=true&vcenter=true&width=435&lines=hola+weyes;estudiante+de+sistemas;IA+voy" alt="Typing SVG" />
 </div>
@@ -17,7 +15,7 @@
 
 ---
 
-### 🚀 Sobre mí
+###  Sobre mí
 
 - 🎓 **Estudiante de Unifranz**
 - 📚 Aprendiendo **APIs, Java, React, Python y más**
