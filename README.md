@@ -3,12 +3,9 @@
   <img src="./banner.durisimoo.jpeg" alt="Banner Durisimo" width="100%" style="border-radius: 10px;" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Miguel725&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Miguel725" />
-</p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&height=70&width=600&pause=1000&color=3FB950&center=true&vcenter=true&lines=hola+weyes;estudiante+de+sistemas;IA+voy" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&height=100&width=800&pause=1000&color=3FB950&center=true&vcenter=true&lines=hola+weyes;estudiante+de+sistemas;IA+voy" alt="Typing SVG" />
 </div>
 
 <br />
@@ -23,6 +20,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=200&section=header&text=Miguel725&fontSize=50&animation=fadeIn&fontColor=ffffff" width="100%" alt="Banner Miguel725" />
+</p>
 
 ##  Sobre mí
 
