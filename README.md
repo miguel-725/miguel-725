@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️️ Tecnologías y Herramientas
+### 🛠 Tecnologías y Herramientas
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -36,7 +36,7 @@
 
 ---
 
-### 🎵 Escuchando en Spotify
+###  Escuchando en Spotify
 
 <div align="center">
   <a href="https://open.spotify.com">
@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+###  Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miguel-725&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Miguel725" height="165" />
